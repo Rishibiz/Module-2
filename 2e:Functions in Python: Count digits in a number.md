@@ -2,7 +2,6 @@
 
 ## Aim
 To write a Python program to count the number of digits in a given number.
-
 ## Algorithm
 1.Start the program.
 
