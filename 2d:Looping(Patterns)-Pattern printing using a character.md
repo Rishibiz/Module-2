@@ -1,7 +1,6 @@
 # Ex 2d:Looping(Patterns)-Pattern printing using a character
 
 ## Aim
-
 To write a Python program that takes a character as input and prints a pattern of the same character.
 
 ## Algorithm
