@@ -24,6 +24,5 @@ print_natural_numbers(n)
 ```
 ## Output
 <img width="573" height="508" alt="image" src="https://github.com/user-attachments/assets/d9a592e4-70d7-4322-aaaf-8d80c88c3838" />
-
 ## Result
 Thus, the program successfully prints natural numbers from 1 to n.
