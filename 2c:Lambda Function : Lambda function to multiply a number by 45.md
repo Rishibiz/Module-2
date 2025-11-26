@@ -21,7 +21,6 @@ z=int(input())
 result=multiply_by_45(z)
 print(result)
 ```
-
 ## Output
 <img width="337" height="168" alt="image" src="https://github.com/user-attachments/assets/58aca1aa-738a-4828-a3db-c022dabf7310" />
 
