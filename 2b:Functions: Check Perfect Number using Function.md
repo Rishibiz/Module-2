@@ -1,5 +1,4 @@
 # Ex 2b:Functions: Check Perfect Number using Function
-
 ## Aim
 To write a Python program to check whether a given number is a Perfect number using a user-defined function.
 ## Algorithm
